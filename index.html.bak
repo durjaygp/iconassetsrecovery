@@ -1,0 +1,767 @@
+
+<!DOCTYPE html>
+
+<!--
+ // WEBSITE: https://themefisher.com
+ // TWITTER: https://twitter.com/themefisher
+ // FACEBOOK: https://www.facebook.com/themefisher
+ // GITHUB: https://github.com/themefisher/
+-->
+
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+<html class="no-js"> <!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="author" content="Alpinetechltd">
+
+    
+  
+<meta name="keywords" content="recovery, bitcoin, crypttocurrency, stolen, money, funds, scams, investment, investigation, how to tractk down lost bitcoin, lost bitcoin recovery, unclaimed bitcoin, lost bitcoin address, how to recover lost bitcoin and private key, types of asset recovery, asset recovery process, asset recovery accounting">
+
+<meta property="og:description" content="Alpinetechltd Assets Recovery Firm | We help you recovery your stolen funds">
+
+
+  <title>Alpinetechltd | Home</title>
+
+<!-- Mobile Specific Meta
+  ================================================== -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Favicon -->
+  <link rel="shortcut icon"  href="images/favicon.png" />
+  <!-- bootstrap.min css -->
+  <link rel="stylesheet" href="plugins/bootstrap/bootstrap.min.css">
+  <!-- Revo Slider CSS
+    ================================================== -->
+  <!-- RS5.0 Main Stylesheet -->
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/css/settings.css">
+  <!-- RS5.0 Layers and Navigation Styles -->
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/css/layers.css">
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/css/navigation.css">
+  <!-- REVOLUTION STYLE SHEETS -->
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/fonts/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/css/settings.css">
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/css/layers.css">
+  <link rel="stylesheet" type="text/css" href="plugins/revo-slider/css/navigation.css">
+  <!-- CSS
+  ================================================== -->
+  <!-- Themefisher Icon font -->
+  <link rel="stylesheet" href="plugins/themefisher-font/style.css">
+  <!-- Lightbox.min css -->
+  <link rel="stylesheet" href="plugins/lightbox2/dist/css/lightbox.min.css">
+  <!-- Slick Carousel -->
+  <link rel="stylesheet" href="plugins/slick-carousel/slick/slick.css">
+  <link rel="stylesheet" href="plugins/slick-carousel/slick/slick-theme.css">
+  <!-- Main Stylesheet -->
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body id="body">
+
+
+
+  
+
+<!--
+Fixed Navigation
+==================================== -->
+<section class="header navigation fixed-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <nav class="navbar navbar-expand-lg">
+                    <a class="navbar-brand" href="index.html">
+                        <img src="images/logo.png" alt="logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="tf-ion-android-menu"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navigation">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item active ">
+                                <a class="nav-link" href="index" 
+                                   >
+                                    Home
+                                </a>
+                                
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="about.html">About</a>
+                            </li>
+                           <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                  Services
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="crypto-investement.html">Crypto investement</a>
+
+                                </div>
+                            </li>
+                            
+                             <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                    aria-expanded="false">
+                                   Common Scams
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="bitcoin-scam.html">Bitcoin Scam</a>
+                                    <a class="dropdown-item" href="forex-scam.html">Forex Scam</a>
+                                    <a class="dropdown-item" href="romance-scam.html">Romance Scam</a>
+                                    <a class="dropdown-item" href="loan-scam.html">Loan Scam</a>
+                                </div>
+                            </li>
+                            
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
+                                    aria-expanded="false">
+                                    Regulatories
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="list-of-real-financial-regulatory-organizations">Real Regulatory</a>
+                                      <a class="dropdown-item" href="list-of-fake-financial-regulatory-organizations">Fake Regulatory</a>
+                                </div>
+                            </li>
+                            
+                            <li class="nav-item">
+                                <a class="nav-link" href="news.html">News</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="contact.html">Contact</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="rev_slider_wrapper fullwidthbanner-container">
+    <!-- the ID here will be used in the inline JavaScript below to initialize the slider -->
+    <div id="rev_slider_1" class="rev_slider" data-version="5.4.5" style="display:none">
+        <ul>
+            <!-- *********************** -->
+            <!-- Slides to be added here -->
+            <!-- *********************** -->
+            <li data-transition="random-static" data-delay="6000">
+                <!-- Text Layer with Fade-In Transition -->
+                <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                <div class="opacity-extra-medium bg-black position-relative z-index-1"></div>
+                <img src="images/slider/slider-bg-1.jpg" alt="Sky" class="rev-slidebg">
+                <!-- Start New layer -->
+                <div class="tp-caption tp-resizeme z-index-1" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center']" data-lineheight="['60', '32', '32', '24']" data-visibility="['on', 'on', 'on', 'on']"
+                    data-x="center" data-y="center" data-voffset="['-40']" data-fontsize="['60', '24', '22', '18']" data-color="['#FFF', '#FFF', '#000', '#000']"
+                    style="z-index: 7;font-family: 'Catamaran', sans-serif; font-weight: 700; letter-spacing:1px; padding: 0 20px;">
+                <h1>Get scam recovery assistance!</h1>
+                 Recover Your Money<br> Lost to Scammers<br><br>
+                </div>
+                <!-- END LAYER -->
+                <!-- Start New layer -->
+                <div class="tp-caption tp-resizeme z-index-1" data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center']" data-lineheight="['35']" data-visibility="['on', 'on', 'on', 'on']" data-x="center" data-y="center" data-voffset="['70']" data-fontsize="['25','25','50','50']" data-color="['#FFF']" style="z-index: 7;">
+                   Partner with Alpinetechltd Recovery, a leading scam recovery practitioner, <br>aiding thousands to get back millions of dollars lost in the hands of frauds.
+                   </div>
+                <!-- END LAYER -->
+                <a href="file-a-complaint" class="tp-caption btn btn-main" data-x="['center']" data-y="['center']" data-whitespace="nowrap" data-visibility="['on', 'on', 'on', 'on']"
+                    data-type="text" data-voffset="['190']" data-responsive_offset="on" data-responsive="off" data-frames='[{"delay":2500,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center']" data-basealign="slide">File A Complaint</a>
+            </li>
+            <!-- MINIMUM SLIDE STRUCTURE -->
+            <li data-transition="random-static" data-delay="6000">
+                <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                <img alt="Ocean" class="rev-slidebg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" src="images/slider/slider-bg-2.jpg"
+                    alt="Ocean" class="rev-slidebg">
+                <!-- Start New layer -->
+                <div class="tp-caption tp-resizeme z-index-1" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"x:[175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[-100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center']" data-lineheight="['70', '32', '32', '24']" data-visibility="['on', 'on', 'on', 'on']" data-x="center"
+                    data-y="center" data-voffset="['-40']" data-fontsize="['60', '24', '22', '18']" data-color="['#FFF', '#FFF', '#000', '#000']"
+                    style="z-index: 7;font-family: 'Catamaran', sans-serif; font-weight: 700; letter-spacing:2px; padding: 0 20px;">
+                    <h1>Enhanced chances of Recovery!</h1>
+                    <h2 >Think you might be a<span class="theme-color"> scam victim?</span></h2>
+                </div>
+                <!-- END LAYER -->
+                <!-- Start New layer -->
+                <div class="tp-caption tp-resizeme z-index-1" data-frames='[{"delay":1500,"speed":2000,"frame":"0","from":"y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power4.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center']" data-lineheight="['35']" data-visibility="['on', 'on', 'on', 'on']" data-x="center" data-y="center" data-voffset="['70']" data-fontsize="['25','25','50','50']" data-color="['#FFF']" style="z-index: 7;">
+                   Confirm the legitimacy of your provider, allow our experts to <br>investigate your case, and clarify whether <br>you are dealing with a scammer of sorts.
+                   </div>
+                <!-- END LAYER -->
+                <a href="contact" class="tp-caption btn btn-main" data-x="['center']" data-y="['center']" data-whitespace="nowrap" data-visibility="['on', 'on', 'on', 'on']"
+                    data-type="text" data-voffset="['190']" data-responsive_offset="on" data-responsive="off" data-frames='[{"delay":2500,"speed":1000,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]'
+                    data-textAlign="['center']" data-basealign="slide">Contact Us</a>
+            </li>
+        </ul>
+        <div class="tp-bannertimer  tp-bottom" style="height: 6px; background-color: rgba(0, 0, 0, 0.25);"></div>
+    </div>
+</div>
+
+<!--
+Start About Section
+==================================== -->
+<section class="about-2 section bg-gray" id="about">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-md-5">
+				<h2>We Transmit Safe, Secure & Reliable Services</h2>
+			</div>
+			<div class="col-12 col-md-7">
+				<p>Your Digital Money, Trades, And Transactions Are Safeguarded With Alpinetechltd Recovery’s Services. Now Invest Without Any Hassles And Recover Your Losses With Ease.</p>
+				
+			</div>
+			
+		</div> 		<!-- End row -->
+	</div>   	<!-- End container -->
+</section>   <!-- End section -->
+
+<section class="services section-xs" id="services">
+	<div class="container">
+       
+				<h2 class="title text-center">WHY CHOOSE US</h2>
+			
+		<div class="row">
+            
+			<!-- Single Service Item -->
+			<div class="col-md-4 col-sm-6" >
+				<div class="service-block color-bg text-center">
+					<div class="service-icon text-center">
+						<i class="tf-ion-ios-copy-outline"></i>
+					</div>
+					<h3>High Success Rate</h3>
+					<p>With extensive years of experience, our cases hold a success & win rate of 82%.</p>
+				</div>
+			</div>
+			<!-- End Single Service Item -->
+			
+			<!-- Single Service Item -->
+			<div class="col-md-4 col-sm-6" >
+				<div class="service-block text-center">
+					<div class="service-icon text-center">
+						<i class="tf-ion-ios-alarm-outline"></i>
+					</div>
+					<h3>Instant Scam Updates</h3>
+					<p>Our legal experts & advisors investigate cases, claims and update scams rapidly</p>
+				</div>
+			</div>
+			<!-- End Single Service Item -->
+			
+			<!-- Single Service Item -->
+			<div class="col-md-4 col-sm-6 mx-auto"  >
+				<div class="service-block color-bg text-center">
+					<div class="service-icon text-center">
+						<i class="tf-ion-ios-book-outline"></i>
+					</div>
+					<h3>Assured Recovery</h3>
+					<p>Report claims, attain fast & complete refund under the guidance of specialists.</p>
+				</div>
+			</div>
+		</div> 		<!-- End row -->
+	</div>   	<!-- End container -->
+</section>   <!-- End section -->
+			
+			
+			
+
+<section class="about section-sm" id="about">
+	<div class="container">
+		<div class="row mb-5 justify-content-center">
+			<div class="col-md-5">
+				<img src="images/about/about-1.jpg" class="img-fluid rounded shadow w-100" alt="about-img">
+			</div>
+			<div class="col-md-5">
+				<div class="content">
+					<h2>About Us</h2>
+                    <h3 >Making The World A Safer Place With Financial Security</h2>
+					<p>Alpinetechltd Recovery Is A Fund Recovery, Management, And Inspection Firm. By Inspecting Scams And Frauds, We Speculate And Legally Counter Your Case </p>
+               <ul>
+                  <li><span class="fa fa-check"></span> Doubles Your Security</li>
+                  <li><span class="fa fa-check"></span> Trained Personnel</li>
+                  <li><span class="fa fa-check"></span> Global Award Winner</li>
+                  <li><span class="fa fa-check"></span> Scam Control</li>
+               </ul>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-md-5 order-md-1 order-2">
+				<div class="content">
+					<h2>We think out of the <br> Box</h2>
+					<p>Operates in the form of a bank segregating and listing down scams for easy access. Triggers inspection on suspicious activities and changes on the user's account.</p>
+               
+				</div>
+			</div>
+			<div class="col-md-5 order-md-2 order-1">
+				<img src="images/about/about-2.jpg" class="img-fluid rounded shadow w-100" alt="">
+			</div>
+		</div> <!-- End row -->
+	</div> <!-- End container -->
+</section> <!-- End section -->
+
+<!--
+Start About Section
+==================================== -->
+<section class="service-2 section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="title text-center">
+             <h2>Fight For Your Rights</h2>
+          <h4>OUR SERVICES</h4>
+         
+          <span class="border"></span>
+          <p>Alpinetechltd Recovery Allows Victims To Raise Claims And Fights Your Cases. Your Trusted Solutions With A 100% Transparency, Authorised And Regulated By Law.</p>
+        </div>
+      </div>
+      <div class="col-8 mx-auto">
+        <div class="row">
+          <div class="col-md-6 p-0">
+            <div class="service-item text-center">
+              <span class="count">1.</span>
+              <i class="tf-ion-ios-briefcase-outline"></i>
+              <h4>Fund Recovery Services</h4>
+              <p>Fund Recovery is an incredible service offered by Alpinetechltd Recovery to provide scam victims with a venue where you can recover money lost b...</p>
+                 <a href="fund-recovery" class="btn_2">Read More <span class="fa fa-angle-right"></span></a> 
+               
+            </div>
+          </div>
+          <div class="col-md-6 p-0">
+            <div class="service-item text-center">
+              <span class="count">2.</span>
+              <i class="tf-ion-ios-alarm-outline"></i>
+              <h4>Debt Management Services</h4>
+              <p>Debt Management plans are designed to deal with unsecured debts like credit cards and personal loan balances. Debt management entails:...</p>
+                <a href="dept-management" class="btn_2">Read More <span class="fa fa-angle-right"></span></a> 
+               
+            </div>
+          </div>
+          <div class="col-md-6 p-0">
+            <div class="service-item text-center">
+              <span class="count">3.</span>
+              <i class="tf-ion-ios-email-outline"></i>
+              <h4>Debt Consolidation Services</h4>
+              <p>A Debt Consolidation program helps you pay off your unsecured bills through an easy and single monthly payment plan. This program enables you to ma...</p>
+                 <a href="debt-consolidation" class="btn_2">Read More <span class="fa fa-angle-right"></span></a> 
+               
+            </div>
+          </div>
+          <div class="col-md-6 p-0">
+            <div class="service-item text-center">
+              <span class="count">4.</span>
+              <i class="tf-ion-ios-locked-outline"></i>
+              <h4>Debt Settlement Services</h4>
+              <p>Debt Settlement refers to a deal reached between a creditor, and a consumer in which the total amount owing is lowered, fees are waived, and the re...</p>
+                 
+                <a href="debt-settlement" class="btn_2">Read More <span class="fa fa-angle-right"></span></a> 
+               
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<!-- End section -->
+    
+    
+    
+    
+    <section class="service-2 section bg-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="title text-center">
+             <h2>What We Cover</h2>
+          <h4>FINANCIAL RECOVERY SERVICES</h4>
+         
+          <span class="border"></span>
+          <p>Alpinetechltd Recovery Aids People Who Have Been Deceived And Cheated By Scammers And Unregulated Associations. Promising The Best Lawyers & Legal Advisors.</p>
+        </div>
+      </div>
+      <div class="col-8 mx-auto">
+        <div class="row">
+          <div class="col-md-4 p-0">
+            <div class="service-item text-center">
+        
+              <img class="tf-ion-ios-briefcase-outline" src="images/forex-100x100.png">
+              <h4>Forex Trading <br>Scams</h4>
+              <p>The Forex industry is one of the scammer’s favorite grounds. Since the industry is generally known as a legitimate investment option, it is very hard for the average person to differentiate the scam brokers, from the legitimate ones. Usually, most people don’t even know they’ve been scammed, they just think they had “A bad trading day”, contact us and we will get your money back.<br>Contact us now.</p>
+               
+               
+            </div>
+          </div>
+              <div class="col-md-4 p-0">
+            <div class="service-item text-center">
+             
+              <img class="tf-ion-ios-briefcase-outline" src="images/binary-data-100x100.png">
+              <h4>Binary Options Scams</h4>
+              <p>Binary options are a type of financial product classified as an exotic option. Binary options trading may seem like a new speculative market, but they’ve existed since 1974. They were created by one of the largest derivatives markets globally, CBOE (Chicago Board Options Exchange). It wasn’t until 2008 that binary options became primarily available to the public, and many entities copied the original CBOE asset type listing. </p>
+                
+               
+            </div>
+          </div>
+          <div class="col-md-4 p-0">
+            <div class="service-item text-center">
+            
+               <img class="tf-ion-ios-briefcase-outline" src="images/cryptocurrency-100x100.png">
+              <h4>Cryptocurrency Scams</h4>
+              <p>No matter how hard governments try to regulate it, the Cryptocurrency industry is still alive and kicking. Since the topic is quite ambiguous to the general public, frauds use it to scam people out of their money, with what looks like a genuine investment opportunity. If you fell into a Cryptocurrency scam, please contact us now. We will give it our best effort to recover your money. <br>Contact us now.</p>
+            
+            </div>
+          </div>
+          <div class="col-md-4 p-0">
+            <div class="service-item text-center">
+              
+             <img class="tf-ion-ios-briefcase-outline" src="images/stock-market-100x100.png">
+                   <h4>Stock Trading Scams</h4>
+              <p>We all dream of becoming the next Warren Buffett. Who wouldn’t want to be one of the richest men in the world. We would all like to make the right investment each and every time, but that’s next to impossble to achieve. Scammers prey on those seeking to make a quick buck and they will look to lure us in with shady investment opportunities that have no basis in reality. If you suspect you’ve lost money due to a fraudulent stock trading scam then contact us now and we’ll work to get your money back.</p>
+                
+               
+            </div>
+          </div>
+             <div class="col-md-4 p-0">
+            <div class="service-item text-center">
+              
+             <img class="tf-ion-ios-briefcase-outline" src="images/cryptocurrency-100x100.png">
+              <h4>Credit Card Fraud</h4>
+              <p>Thousands of new credit card phishing scams emerge every year and it’s our mission to fight back against the scammers in the names of our clients. If you’ve fallen victim to one of the many credit card phishing scams out there, please contact us as soon as possible. The sooner we review your case and gather the evidence, the better your chances are of getting your money back.</p>
+              
+               
+            </div>
+          </div>
+          <div class="col-md-4 p-0">
+            <div class="service-item text-center">
+              
+              <img class="tf-ion-ios-briefcase-outline" src="images/fraud-100x100.png">
+              <h4>Property Fraud</h4>
+              <p>Property scams vary greatly in how they are executed, but they all aim to steal money from unsuspecting individuals who are interested in renting, buying, or leasing a property. In these types of scams, the fraudsters often pose as property owners, landlords, real estate agencies, property management companies, or other property-adjacent businesses to trick their victims into handing over money or sensitive financial and personal information that they can use to steal from them.</p>
+                 
+               
+               
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+    
+
+				
+				
+			
+
+
+
+
+<!-- Start Testimonial
+=========================================== -->
+
+<section class="testimonial section" id="testimonial">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<!-- testimonial wrapper -->
+				<div class="testimonial-slider">
+					<!-- testimonial single -->
+					<div class="item text-center">
+						<i class="tf-ion-quote"></i>
+						<!-- client info -->
+						<div class="client-details">
+							<p>Ten Options scammed me for $79050. I thought my money was gone. Then I came across Martin's services on a forum about options trading. I contacted him, and within 3 to 4 months, I got all my money back! Martin and his team know what they are doing. cannot thank them enough.</p>
+						</div>
+						<!-- /client info -->
+						<!-- client photo -->
+						
+						<div class="client-meta">
+							<h4>Cutts</h4>
+							
+						</div>
+						<!-- /client photo -->
+					</div>
+					<!-- /testimonial single -->
+
+					<!-- testimonial single -->
+					<div class="item text-center">
+						<i class="tf-ion-quote"></i>
+						<!-- client info -->
+						<div class="client-details">
+							<p>I was utterly taken in by a binary options company, and soon they had all the savings. I soon found out that I couldn't withdraw my funds. I tried so many different ways, but no luck and had given up. However, Glen from Alpinetechltd Recovery completely took control and got back 80% of my money. Thank you, Glen.</p>
+						</div>
+						<!-- /client info -->
+						<!-- client photo -->
+						
+						<div class="client-meta">
+							<h4>David</h4>
+							
+						</div>
+						<!-- /client photo -->
+					</div>
+					<!-- /testimonial single -->
+
+					<!-- testimonial single -->
+					<div class="item text-center">
+						<i class="tf-ion-quote"></i>
+						<!-- client info -->
+						<div class="client-details">
+							<p>I opened my case in September 2020 with my credit card company. I lost my first chargeback attempt, and referred to Steve from morganfinancialrecovery.com through a member of Forex Peace Army. We connected and built a stronger case. After months of procedures, I actually won! Steve was always lovely and cheerful throughout this experience. Keep up the good work!</p>
+						</div>
+						<!-- /client info -->
+						<!-- client photo -->
+						
+						<div class="client-meta">
+							<h4>Julia</h4>
+							
+						</div>
+						<!-- /client photo -->
+					</div>
+					<!-- /testimonial single -->
+				</div>
+			</div>
+			<!-- end col lg 12 -->
+		</div>
+		<!-- End row -->
+	</div>
+	<!-- End container -->
+</section>
+<!-- End Section -->
+
+<!--
+Start Blog Section
+=========================================== -->
+<section class="blog section" id="blog">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="title text-center">
+					
+					<h2>News</h2>
+					<span class="border"></span>
+					
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<!-- single blog post -->
+			<article class="col-md-4 col-sm-6" >
+				<div class="post-item">
+					<div class="post-thumb">
+					  	<img class="img-fluid shadow rounded" src="images/16-1-Wells-Fargo-shares-rise-even-as-banks-profits-.jpeg" alt="Generic placeholder image">
+					</div>
+			  		
+			  	
+			  		<div class="post-content">
+					    <p>Wells Fargo shares rise even as bank’s profits cut in half by higher reserves, settlement costs</p>
+			  		</div>
+				    <a class="btn btn-main" href="wells-fargo">Read more</a>
+				</div>
+			</article>
+			<!-- /single blog post -->
+			
+			<!-- single blog post -->
+				<article class="col-md-4 col-sm-6" >
+					<div class="post-item">
+						<div class="post-thumb">
+						  	<img class="img-fluid shadow rounded" src="images/13-1-Scam-Facebook-ads-using-fake-images-of-PM-Albanese-being-%E2%80%98arrested-removed-from-site.jpeg" alt="Generic placeholder image">
+						</div>
+				  		
+				  		<div class="post-meta">
+				  			
+				  		</div>
+				  		<div class="post-content">
+						    <p>Scam Facebook ads using fake images of PM Albanese being ‘arrested’ removed from site</p>
+				  		</div>
+					    <a class="btn btn-main" href="facebook-ads">Read more</a>
+					</div>
+				</article>
+			<!-- end single blog post -->
+			<!-- single blog post -->
+				<article class="col-md-4 col-sm-6" >
+					<div class="post-item">
+						<div class="post-thumb">
+						  	<img class="img-fluid shadow rounded" src="images/11-1-Phishing-attacks-are-increasing-and-getting-more-sophisticated.jpeg" alt="Generic placeholder image">
+						</div>
+				  		
+				  		<div class="post-meta">
+				  			
+				  		</div>
+				  		<div class="post-content">
+						    <p>Phishing attacks are increasing and getting more sophisticated. Here’s how to avoid them</p>
+				  		</div>
+					    <a class="btn btn-main" href="phishing-attact">Read more</a>
+					</div>
+				</article>
+			<!-- end single blog post -->
+			
+		</div> <!-- end row -->
+	</div> <!-- end container -->
+</section> <!-- end section -->
+				
+
+
+
+
+<footer id="footer" class="bg-one">
+  <div class="top-footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+          <h3>About</h3>
+          <p>Alpinetechltd Recovery Is A Fund Recovery, Management, And Inspection Firm. By Inspecting Scams And Frauds, We Speculate And Legally Counter Your Case</p>
+        </div>
+        <!-- End of .col-sm-3 -->
+
+        <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+          <h3>Common Scams</h3>
+          <ul>
+            <li><a href="forex-scam.html">Forex Scam</a></li>
+            <li><a href="bitcoin-scam.html">Bitcoin Scam</a></li>
+            <li><a href="romance-scam.html">Romance Scam</a></li>
+               <li><a href="loan-scam.html">Loan Scam</a></li>
+          </ul>
+        </div>
+        <!-- End of .col-sm-3 -->
+
+        <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="service.html">Services</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="file-a-complaint.html">File A Complaint</a></li>
+            <li><a href="real-regulatory.html">Regulatory</a></li>
+          </ul>
+        </div>
+        <!-- End of .col-sm-3 -->
+
+        <div class="col-lg-3 col-sm-6 mb-4 mb-lg-0">
+          <h3>Subscribe Now</h3>
+          <form class="subscribe-form">
+            <div class="form-group">
+              <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+            </div>
+            <button type="submit" class="btn btn-main-sm">Subscribe Now</button>
+          </form>
+        </div>
+        <!-- End of .col-sm-3 -->
+
+      </div>
+    </div> <!-- end container -->
+  </div>
+  <div class="footer-bottom">
+    <h5>Copyright 2024. All rights reserved.</h5>
+    
+  </div>
+</footer> <!-- end footer -->
+<!-- end Footer Area
+========================================== -->
+        
+        
+        
+<!-- Start of LiveChat (www.livechat.com) code -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 17336358;
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+</script>
+<noscript><a href="https://www.livechat.com/chat-with/17336358/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->
+
+
+<!-- 
+Essential Scripts
+=====================================-->
+<!-- Main jQuery -->
+<script src="plugins/jquery/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="plugins/bootstrap/bootstrap.min.js"></script>
+<!-- Parallax -->
+<script src="plugins/parallax/jquery.parallax-1.1.3.js"></script>
+<!-- lightbox -->
+<script src="plugins/lightbox2/dist/js/lightbox.min.js"></script>
+<!-- Owl Carousel -->
+<script src="plugins/slick-carousel/slick/slick.min.js"></script>
+<!-- Portfolio Filtering -->
+<script src="plugins/filterzr/jquery.filterizr.min.js"></script>
+<!-- Smooth Scroll js -->
+<script src="plugins/smooth-scroll/dist/js/smooth-scroll.min.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"></script>
+<!-- Form Validation -->
+<script src="plugins/form-validation/jquery.form.js"></script>
+<script src="plugins/form-validation/jquery.validate.min.js"></script>
+<!-- Custom js -->
+<script type="text/javascript" src="plugins/revo-slider/js/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/jquery.themepunch.revolution.min.js"></script>
+<script src="js/script.js"></script>
+<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
+(Load Extensions only on Local File Systems ! 
+The following part can be removed on Server for On Demand Loading) -->
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.actions.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.migration.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="plugins/revo-slider/js/extensions/revolution.extension.video.min.js"></script>
+<script>
+    /* https://learn.jquery.com/using-jquery-core/document-ready/ */
+    jQuery(document).ready(function () {
+        /* initialize the slider based on the Slider's ID attribute */
+        jQuery('#rev_slider_1').show().revolution({
+
+            /* options are 'auto', 'fullwidth' or 'fullscreen' */
+            sliderLayout: 'fullscreen',
+
+            /* basic navigation arrows and bullets */
+            navigation: {
+
+                arrows: {
+                    style: "zeus",
+                    enable: true,
+                    hide_onmobile: true,
+                    hide_under: 600,
+                    hide_onleave: true,
+                    hide_delay: 200,
+                    hide_delay_mobile: 1200,
+                    tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
+                    left: {
+                        h_align: "left",
+                        v_align: "center",
+                        h_offset: 30,
+                        v_offset: 0
+                    },
+                    right: {
+                        h_align: "right",
+                        v_align: "center",
+                        h_offset: 30,
+                        v_offset: 0
+                    }
+                }
+                ,
+                bullets: {
+                    enable: false,
+                    hide_onmobile: true,
+                    hide_under: 600,
+                    style: "metis",
+                    hide_onleave: true,
+                    hide_delay: 200,
+                    hide_delay_mobile: 1200,
+                    direction: "horizontal",
+                    h_align: "center",
+                    v_align: "bottom",
+                    h_offset: 0,
+                    v_offset: 30,
+                    space: 5,
+                    tmp: '<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{title}}</span>'
+                }
+            }
+        });
+    });
+</script>
+</body>
+</html>
